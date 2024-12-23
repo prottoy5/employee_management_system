@@ -2,30 +2,6 @@
 
 The Employee Management System is a comprehensive solution designed to streamline and enhance human resource operations within organizations. This system offers a user-friendly interface that facilitates efficient management of employee profiles, tracking of leave and attendance, task assignment, and performance evaluations. By centralizing these essential HR functions, the system empowers administrators to optimize workforce management, boost productivity, and ensure accurate data-driven decision-making.
 
-## User Interface
-
-![Welcome](public/img/screenshots/Welcome.jpeg "Welcome Page")
-
-![Login](public/img/screenshots/Login.jpeg "Login Page")
-
-![Dashboard](public/img/screenshots/Dashboard.jpeg "Dashboard Page")
-
-![Users](public/img/screenshots/Users.jpeg "Manage Users Page")
-
-![New User](public/img/screenshots/New_User.jpeg "Add New User Page")
-
-![Employees](public/img/screenshots/Employees.jpeg "Manage Employees Page")
-
-![New Employee](public/img/screenshots/New_Employee.jpeg "Add New Employee Page")
-
-![Schedule](public/img/screenshots/Schedule.jpeg "Working Schedule Page")
-
-![Daily Attendance](public/img/screenshots/Daily_Attendance.jpeg "Daily Attendance Page")
-
-![AttendanceReport](public/img/screenshots/Attendance_Report.jpeg "Attendance Report Page")
-
-![Payroll](public/img/screenshots/Payroll.jpeg "Monthly Payroll Page")
-
 #### Prerequisites
 
 Before you proceed, ensure you have the following software installed:
